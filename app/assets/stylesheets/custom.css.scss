@@ -32,23 +32,12 @@ $navbar-default-font-color: #FFFFFF;
 .center{
   text-align: center;
 }
-.jumbotron{
-  background-size: cover;
-  height: 600px;
-}
-.btn-xlarge{
-  font-size: 2em;
-  background-color: black;
+.no-padding {
+  padding: 0px !important;
 
 }
-.jumbotron h1{
-  color: #eee;
-  text-align: center;
-  margin-bottom: 30px;
-  letter-spacing: -1px;
-  text-transform: uppercase;
-  font-weight: bold;
-
+.left-padding {
+  padding-left: 15px !important;
 }
 .results-block {
   display: inline-block;
@@ -56,6 +45,21 @@ $navbar-default-font-color: #FFFFFF;
 .listing {
   list-style: none;
   padding-left: 0px;
+}
+.logout {
+  padding-left: 0px;
+}
+.user-name {
+  padding-top: 15px;
+}
+.nav.navbar-right li {
+  .btn{
+  color: #fff !important;
+  margin-top:5%;
+  }
+  .btn-danger:hover {
+  background-color: darken(#d9534f, 20%) !important;   
+  }
 }
 .footer{
   margin-top: 50px;
