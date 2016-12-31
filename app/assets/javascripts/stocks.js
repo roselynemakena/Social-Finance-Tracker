@@ -21,7 +21,6 @@ init_stock_lookup = function(){
 
 
 $(document).ready(function(){
-    alert("Loaded");
-
+    // alert("Loaded");
   init_stock_lookup();
 })
