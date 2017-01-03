@@ -1,13 +1,13 @@
 
-# Social Finance Tracker
+== Social Finance Tracker
 This is a rails project for an application that authenticates a user, user tracks their own stocks by monitoring the stock prices.
 The user can also choose to add friends registered on the platform as well as vie their portfolio of whatever they are tracking.
 
-# Prerequisites
+== Prerequisites
 * `Ruby ~=2.1`
 * `Rails ~=v.4.2.5.1`
 
-# Installation
+== Installation
 Run this command on your terminal to clone the repository
 
 `https://github.com/roselynemakena/Social-Finance-Tracker.git`
@@ -22,5 +22,5 @@ Run the server
 
 
 ----
-## contribution
+== contribution
 * Feel free to contribute and reuse the code as per the MIT Licence.
